@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{412A3BC1-0FC3-4751-BF29-B33A35C57BDD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shop/Startup.cs">
+    <Files>
+      <File FileName="Shop/wwwroot/CSS/style.css" Line="2" Column="24" />
+      <File FileName="Shop/Views/Cars/List.cshtml" />
+      <File FileName="Shop/ Data/mocs/MockCars.cs" />
+      <File FileName="Shop/Controllers/CarsController.cs" />
+      <File FileName="Shop/ Data/mocs/MockCategory.cs" />
+      <File FileName="Shop/ViewModel/CarsLisyViewModel.cs" />
+      <File FileName="Shop/Views/Shared/_Layout.cshtml" />
+      <File FileName="Shop/Views/_ViewStart.cshtml" />
+      <File FileName="Shop/Views/_ViewImports.cshtml" />
+      <File FileName="Shop/appsettings.json" />
+      <File FileName="Shop/ Data/Models/Car.cs" />
+      <File FileName="Shop/Startup.cs" Line="33" Column="61" />
+      <File FileName="Shop/Program.cs" />
+      <File FileName="Shop/ Data/AppDBContent.cs" />
+      <File FileName="Shop/appsettings.Development.json" />
+      <File FileName="Shop/dbsettings.json" />
+      <File FileName="Shop/ Data/Repository/CarRepository.cs" />
+      <File FileName="Shop/ Data/interfaces/IAllCars.cs" />
+      <File FileName="Shop/ Data/CategoryRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shop" expanded="True">
+            <Node name="Shop" expanded="True">
+              <Node name=" Data" expanded="True">
+                <Node name="interfaces" expanded="True" />
+                <Node name="Repository" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Cars" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="CSS" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Shop PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
